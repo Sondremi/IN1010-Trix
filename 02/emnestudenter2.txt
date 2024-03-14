@@ -1,0 +1,23 @@
+*MAT1100
+Elsie
+Mathias
+Martin
+Ole Petter
+Andreas
+Sondre
+*MAT1001
+Fritjof
+Jonathan
+Emilie
+Henrik
+Gard
+Esben
+Mari
+Sondre
+*INF1500
+Fahd
+Ida
+Nicolai
+Malin
+Emilie
+Sondre
